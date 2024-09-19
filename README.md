@@ -7,5 +7,7 @@ The platform supports both batch and streaming workflows, ensuring scalability a
 
 The architecture decouples data ingestion from data processing, promoting modularity and reusability of components. Automated deployment pipelines were set up for seamless transitions between test and production environments, enhancing operational efficiency and reducing the risk of manual errors. This solution optimizes data flow management and accelerates deployment cycles, providing a robust foundation for data-driven decision-making.
 
+This also invloves in Implementing the Medallion Architecture 
+
 # Architecture
  <img src="architecture/Screenshot 2024-09-19 at 4.25.41 PM.png" alt="architecture"> 
